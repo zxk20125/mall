@@ -1,0 +1,26 @@
+ERROR 2021-07-29 16:41:39,232 [http-nio-8080-exec-1] com.qiguliuxing.dts.wx.web.WxAuthController > 微信登录,调用官方接口失败：043PSN000jjv8M1ZUL200WqUNo2PSN05
+ERROR 2021-07-29 16:41:41,479 [http-nio-8080-exec-2] com.qiguliuxing.dts.wx.web.WxAuthController > 微信登录,调用官方接口失败：0631uqll2sU7t741O5ll2AGyNZ11uqlQ
+ERROR 2021-07-29 16:41:47,782 [http-nio-8080-exec-3] com.qiguliuxing.dts.wx.web.WxAuthController > 微信登录,调用官方接口失败：083WeoGa1h4ttB0A0sIa1z42nP3WeoGR
+ERROR 2021-07-29 17:10:16,447 [http-nio-8080-exec-1] com.qiguliuxing.dts.wx.web.WxAuthController > 微信登录,调用官方接口失败：033aPV100rER9M165H200GEnmZ0aPV1R
+ERROR 2021-07-29 17:13:48,095 [http-nio-8080-exec-6] com.qiguliuxing.dts.wx.web.WxAuthController > 微信登录,调用官方接口失败：013prsll2Kjot74jjLol2rJhpn4prsln
+ERROR 2021-07-29 17:16:23,561 [http-nio-8080-exec-7] com.qiguliuxing.dts.wx.web.WxAuthController > 微信登录,调用官方接口失败：013eEJll2nHLu74yJDkl2IS3Oj1eEJlV
+ERROR 2021-07-29 18:19:37,163 [http-nio-8080-exec-6] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2021-07-29 18:19:37,167 [http-nio-8080-exec-6] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2021-07-29 18:19:41,330 [http-nio-8080-exec-7] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2021-07-29 18:19:41,330 [http-nio-8080-exec-7] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2021-07-29 18:19:42,508 [http-nio-8080-exec-8] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2021-07-29 18:19:42,508 [http-nio-8080-exec-8] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2021-07-29 18:19:43,133 [http-nio-8080-exec-9] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2021-07-29 18:19:43,134 [http-nio-8080-exec-9] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
+ERROR 2021-07-29 18:19:46,650 [http-nio-8080-exec-10] c.g.b.wxpay.bean.result.WxPayUnifiedOrderResult > 
+结果业务代码异常，返回结果：{return_msg=签名错误, return_code=FAIL},
+返回代码：FAIL，返回信息：签名错误
+ERROR 2021-07-29 18:19:46,650 [http-nio-8080-exec-10] com.qiguliuxing.dts.wx.service.WxOrderService > 付款订单的预支付会话标识失败：订单支付失败
